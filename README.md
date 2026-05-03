@@ -1,5 +1,5 @@
 # PowerAutomate-Web
-## 由于PowerAutomate脚本不支持导出，故保存为了docx文件，又由于docx文件不能在GitHub预览，可以下载后查看详细代码。
+### 由于PowerAutomate脚本不支持导出，故保存为了docx文件，又由于docx文件不能在GitHub预览，可以下载后查看详细代码。
 
 一系列PowerAutomate自动化脚本，用于一键实现内部系统、Web、本地三端同步进行批量授权和反授权、审核和反审核、编辑和反编辑，以及大量数据条目的输入输出。
 
